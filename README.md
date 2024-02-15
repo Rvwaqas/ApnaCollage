@@ -1,4 +1,4 @@
 # ApnaCollage
 <br>
-Only for Practice porpases
+Only for learning
 
